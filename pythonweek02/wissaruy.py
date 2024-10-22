@@ -1,4 +1,4 @@
-print("Hello")
+print("สวัดดี")
 print("Wissarut Hmudlae")
 print("Hasim")
 print("19")
